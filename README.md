@@ -1,2 +1,3 @@
-# SQL-Assignments
-intermediate course (datacamp), on progress
+# SQL Exploratiory Data Analysis
+
+My work from Intermediate SQL course (datacamp)
